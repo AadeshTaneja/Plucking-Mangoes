@@ -52,6 +52,9 @@ function draw() {
  
   drawSprites();
  
+ 
+  fill("red")
+  stroke("red") 
   textSize(34)
   text("Press Space to get second to play!!",100,70)
  
